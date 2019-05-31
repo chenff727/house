@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/deposit/index",
+    "pages/houseDetail/houseDetail",
+    "pages/my/index",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
